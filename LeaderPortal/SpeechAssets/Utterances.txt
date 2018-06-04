@@ -1,0 +1,7 @@
+﻿TemplateIntent how many new templates available
+TemplateIntent new templates count please
+
+AMAZON.CancelIntent cease everything
+AMAZON.StopIntent abort leadership portal
+AMAZON.StopIntent stop leadership portal
+AMAZON.HelpIntent give me guidance
